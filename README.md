@@ -1,3 +1,14 @@
+<h1 align="center">
+  <br>
+  <img src="https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" alt="logo" height="300">
+</h1>
+
+#### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
+
+# Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+
+## Juliana MAscarenhas
+
 # Descrição do Desafio
 Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. Sendo assim, consulte como proceder para estes casos. Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
 
